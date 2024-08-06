@@ -25,8 +25,9 @@ This C++ program solves systems of linear equations by transforming a given matr
    ```bash
    linear_solver.exe
    ```
-   - Linux
+   - Linux & Mac
    ```bash
+   chmod +x linear_solver
    ./linear_solver
    ```
 
@@ -62,7 +63,7 @@ Reduced Row Echelon form:
     0     1     0 |    0
     0     0     1 |    2
 ===================================================
-The Matrix has a uniqe solution:
+The Matrix has a unique solution:
 X1 = -1, X2 = 0, X3 = 2
 ```
 

@@ -91,7 +91,7 @@ int main()
 
     if (solution == 0)
     {
-        cout << "The Matrix has a uniqe solution:\n";
+        cout << "The Matrix has a unique solution:\n";
         for (int i = 0; i < rref.size(); i++)
         {
             cout << setprecision(4);
