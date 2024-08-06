@@ -21,6 +21,11 @@ This C++ program solves systems of linear equations by transforming a given matr
 
 2. **Run the Program**:
    Execute the compiled program:
+   - Windows
+   ```bash
+   linear_solver.exe
+   ```
+   - Linux
    ```bash
    ./linear_solver
    ```
